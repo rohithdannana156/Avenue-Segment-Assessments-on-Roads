@@ -14,13 +14,16 @@ This project analyzes road lane segments using **computer vision techniques** to
 ---
 
 ## 📂 Project Structure  
+<pre>
 📁 Avenue-Segment-Project
-├── 📜 Source Code.py # Python script for road lane detection
+├── 📜 Source Code.py  # Python script for road lane detection
 ├── 📜 Video_1
 ├── 📜 Video_2
 ├── 📜 Video_3
-├── 📜 README.md # Project documentation
-└── 📜 requirements.txt # List of dependencies
+├── 📜 README.md  # Project documentation
+└── 📜 requirements.txt  # List of dependencies
+</pre>
+
 
 ---
 
